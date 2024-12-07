@@ -1,13 +1,10 @@
 {
-  "name": "carl-token-api",
+  "name": "your-app-name",
   "version": "1.0.0",
-  "description": "API for CARL Token",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.17.1"
   }
 }
-
